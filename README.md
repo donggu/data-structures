@@ -18,7 +18,7 @@ Real implementations for many languages!
 ### Progress
 
 |Data structure|C|C++|Java|C#|Python|Ruby|
-|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|---|:-:|:-:|:-:|:-:|:-:|:-:|
 |Hash table|||||||
 |AVL tree|||||||
 |AA tree|∆ (only support int)|||||||
