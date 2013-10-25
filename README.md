@@ -8,7 +8,7 @@ Real implementations for many languages!
 * Simple
 * Fast
 * Expose all interfaces so the programmer has the complete control over the structure
-* Easy configuration 
+* Easy configuration
   * duplicated elements
 
 
@@ -18,16 +18,16 @@ Real implementations for many languages!
 ### Progress
 
 |Data structure|C|C++|Java|C#|Python|Ruby|
-|-|::|::|
-|Hash table|
-|AVL tree|
-|AA tree|∆ (only support int)||
-|Red-Black Tree|
-|B tree|
-|Indexed Tree|
-|Segment Tree|
-|Skiplist (Probabilistic)|
-|Skiplist (Deterministic)|
-|Heap|
-|Tries|
-|Suffix Tree|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|Hash table|||||||
+|AVL tree|||||||
+|AA tree|∆ (only support int)|||||||
+|Red-Black Tree|||||||
+|B tree|||||||
+|Indexed Tree|||||||
+|Segment Tree|||||||
+|Skiplist (Probabilistic)|||||||
+|Skiplist (Deterministic)|||||||
+|Heap|||||||
+|Tries|||||||
+|Suffix Tree|||||||
